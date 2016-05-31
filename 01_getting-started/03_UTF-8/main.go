@@ -8,7 +8,7 @@ func main() {
 		//%b 2进制
 		//%x 16进制
 		//%#x 0x前缀的16进制
-		//%#q 
+		//%#q utf-8 字符
 		fmt.Printf("%d \t %b \t %x \t %q \n", i, i, i, i)
 	}
 }
