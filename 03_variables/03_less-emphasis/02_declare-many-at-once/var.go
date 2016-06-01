@@ -10,4 +10,6 @@ func main() {
 	message = "Hello World!"
 
 	fmt.Println(message, a, b, c)
+	//Hello World! 1 0 0
+	//没有被赋值的变量，采用默认值0
 }

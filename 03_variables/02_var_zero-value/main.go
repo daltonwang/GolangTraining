@@ -15,4 +15,11 @@ func main() {
 	fmt.Printf("%v \n", d)
 
 	fmt.Println()
+	
+	/* 测试这几个值的默认值
+	0 
+ 
+	0 
+	false 
+	*/
 }
